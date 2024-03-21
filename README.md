@@ -21,5 +21,9 @@ To start the server, run the `server.py` script. By default, the server will lis
 ```bash
 python3 server.py
 ```
+### Client
+
+Then run the `client.py` to receive the message. Enjoy!!
+
 ```bash
 python3 client.py
