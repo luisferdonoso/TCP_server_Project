@@ -20,4 +20,6 @@ To start the server, run the `server.py` script. By default, the server will lis
 
 ```bash
 python3 server.py
+```
+```bash
 python3 client.py
